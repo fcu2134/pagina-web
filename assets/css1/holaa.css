@@ -1,0 +1,89 @@
+body{
+   background-color: antiquewhite;
+}
+.encabezado {
+    width: 100%;
+    
+    color: #ffffff;
+    padding: 20px;
+    border:1px solid blue;
+    text-align: center;
+}
+.img{
+    width: 100px;
+    margin: 1px;
+}
+.encabezado  {
+    text-decoration: none;
+    color: #fb2020;
+    background-color: #0b0a0a;
+}
+.a1{
+    text-decoration: none;
+    color:aliceblue;
+}
+h1{
+    text-align: center;
+    margin-top: 10px;
+}
+.contenedor{
+    margin: 10px;
+}
+.izquierda{
+    margin: 15px;
+    
+    
+}
+.im {
+    margin: 10px;
+    margin-left:270px ;
+}
+.p1{
+    
+    margin: 4px; 
+    margin-left: 250px;
+    
+    
+
+}
+.link1{
+    text-decoration:none;
+    display: block;
+    margin-top:4px;
+    text-align: left;
+    margin-left: 250px;
+
+}
+.derecha{
+    float: right;
+    margin: 100px;
+    text-align: center;
+    position: relative;
+    margin-top: -17%;
+    right: 10%;
+}
+.p2{
+    margin: 2px;
+    margin-left:250px ;
+    display: block
+}
+.link2{
+    text-decoration:none;
+    display: block;
+    margin-top:2px;
+    margin-left:250px ;
+
+}
+.im2{
+    margin: 1%;
+    margin-left: 10%;
+    border: 2px solid red;
+}
+.tabla{
+    border: 1px solid black;
+    width: 90%;
+    text-align: center;
+    margin: 6px;
+    margin-left: 7%;
+    background-color: aquamarine;
+}
